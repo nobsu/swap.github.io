@@ -2,7 +2,6 @@
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
   "homepage": "https://nobsu.github.io/swap.github.io",
-  "homepage": ".",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
